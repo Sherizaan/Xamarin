@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "dgSpecHash": "4NoM1aMVIop0OzpqF33+RfBx0jfCjoJfRAuFrj/euHGKUIl12WMQ2xX4L3+0HRgMPstuRVbHTfR4pTEBSoXtJw==",
+  "success": false,
+  "projectFilePath": "C:\\Development\\Xamarin\\Tender_Spider\\Spider_App\\Spider_App.iOS\\Spider_App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Intern\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Intern\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Intern\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Intern\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Intern\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\Intern\\.nuget\\packages\\xam.plugin.connectivity\\3.2.0\\xam.plugin.connectivity.3.2.0.nupkg.sha512",
+    "C:\\Users\\Intern\\.nuget\\packages\\xam.plugins.settings\\3.1.1\\xam.plugins.settings.3.1.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\Intern\\.nuget\\packages\\xamarin.forms.essentials.securestorage\\1.0.3\\xamarin.forms.essentials.securestorage.1.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Xamarin.Forms.Essentials.SecureStorage 1.0.3 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0). Package Xamarin.Forms.Essentials.SecureStorage 1.0.3 supports: net (.NETFramework,Version=v0.0)",
+      "libraryId": "Xamarin.Forms.Essentials.SecureStorage",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Xamarin.Forms.Essentials.SecureStorage 1.0.3 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win. Package Xamarin.Forms.Essentials.SecureStorage 1.0.3 supports: net (.NETFramework,Version=v0.0)",
+      "libraryId": "Xamarin.Forms.Essentials.SecureStorage",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Xamarin.Forms.Essentials.SecureStorage 1.0.3 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win-x64. Package Xamarin.Forms.Essentials.SecureStorage 1.0.3 supports: net (.NETFramework,Version=v0.0)",
+      "libraryId": "Xamarin.Forms.Essentials.SecureStorage",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win-x64"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Xamarin.Forms.Essentials.SecureStorage 1.0.3 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win-x86. Package Xamarin.Forms.Essentials.SecureStorage 1.0.3 supports: net (.NETFramework,Version=v0.0)",
+      "libraryId": "Xamarin.Forms.Essentials.SecureStorage",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

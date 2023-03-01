@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SDC_Applicaton.Views.HomePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                    
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions >
+
+                <Label Text=" Hello Sherizaan Allie"
+                      
+                       Padding="8"
+                       FontSize="25" FontAttributes="Bold"
+                       Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4"
+                       VerticalOptions="StartAndExpand" />
+                <Label Text=" Date"
+                      
+                       Padding="8"
+                       FontSize="25" FontAttributes="Bold"
+                       Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4"
+                       VerticalOptions="StartAndExpand" />
+              
+            </Grid>
+
+            <Grid>
+                <Label
+                    Text="Total Tickets"
+                    Grid.Row="2" Grid.Column="0"
+                    HorizontalTextAlignment="Center"
+                    FontAttributes="Bold" FontSize="14" />
+                <Label
+                    Text="Closed Tickets"
+                    Grid.Row="2" Grid.Column="1"
+                    HorizontalTextAlignment="Center"
+                    FontAttributes="Bold" FontSize="14" />
+                <Label
+                    Text="Active Tickets"
+                    Grid.Row="2" Grid.Column="2"
+                    HorizontalTextAlignment="Center"
+                    FontAttributes="Bold" FontSize="14" />
+            </Grid>
+
+            <Grid HorizontalOptions="Start">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <Button 
+                    Text="Create Ticket"
+                    Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2"
+                    FontSize="Small" FontAttributes="Bold"
+                    BackgroundColor="DeepSkyBlue" TextColor="Black"
+                    CornerRadius="6"/>
+                
+                <Button 
+                    Text="My Tickets"
+                    Grid.Row="0" Grid.Column="2" Grid.ColumnSpan="2" Grid.RowSpan="2"
+                    FontSize="Small" FontAttributes="Bold"
+                    BackgroundColor="DeepSkyBlue" TextColor="Black"
+                    CornerRadius="6" />
+                <Button 
+                    Text="Profile"
+                    Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2"
+                    FontSize="Small" FontAttributes="Bold"
+                    BackgroundColor="DeepSkyBlue" TextColor="Black"
+                    CornerRadius="6" />
+                <Button 
+                    Text="Dashboard"
+                    Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2" Grid.RowSpan="2"
+                    FontSize="Small" FontAttributes="Bold"
+                    BackgroundColor="DeepSkyBlue" TextColor="Black"
+                    CornerRadius="6" />
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

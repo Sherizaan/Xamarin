@@ -1,0 +1,17 @@
+C:\Development\Xamarin\SDC\SDC\SDC\bin\Debug\netstandard2.0\SDC.deps.json
+C:\Development\Xamarin\SDC\SDC\SDC\bin\Debug\netstandard2.0\SDC.dll
+C:\Development\Xamarin\SDC\SDC\SDC\bin\Debug\netstandard2.0\ref\SDC.dll
+C:\Development\Xamarin\SDC\SDC\SDC\bin\Debug\netstandard2.0\SDC.pdb
+C:\Development\Xamarin\SDC\SDC\SDC\obj\Debug\netstandard2.0\SDC.csproj.AssemblyReference.cache
+C:\Development\Xamarin\SDC\SDC\SDC\obj\Debug\netstandard2.0\SDC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Xamarin\SDC\SDC\SDC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Development\Xamarin\SDC\SDC\SDC\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Development\Xamarin\SDC\SDC\SDC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Development\Xamarin\SDC\SDC\SDC\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Development\Xamarin\SDC\SDC\SDC\obj\Debug\netstandard2.0\SDC.AssemblyInfoInputs.cache
+C:\Development\Xamarin\SDC\SDC\SDC\obj\Debug\netstandard2.0\SDC.AssemblyInfo.cs
+C:\Development\Xamarin\SDC\SDC\SDC\obj\Debug\netstandard2.0\SDC.csproj.CoreCompileInputs.cache
+C:\Development\Xamarin\SDC\SDC\SDC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Development\Xamarin\SDC\SDC\SDC\obj\Debug\netstandard2.0\SDC.dll
+C:\Development\Xamarin\SDC\SDC\SDC\obj\Debug\netstandard2.0\ref\SDC.dll
+C:\Development\Xamarin\SDC\SDC\SDC\obj\Debug\netstandard2.0\SDC.pdb

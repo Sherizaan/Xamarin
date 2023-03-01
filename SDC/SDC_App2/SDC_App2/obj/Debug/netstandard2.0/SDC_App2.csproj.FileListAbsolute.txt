@@ -1,0 +1,9 @@
+C:\Development\Xamarin\SDC\SDC_App2\SDC_App2\obj\Debug\netstandard2.0\SDC_App2.csproj.AssemblyReference.cache
+C:\Development\Xamarin\SDC\SDC_App2\SDC_App2\obj\Debug\netstandard2.0\SDC_App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Xamarin\SDC\SDC_App2\SDC_App2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Development\Xamarin\SDC\SDC_App2\SDC_App2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Development\Xamarin\SDC\SDC_App2\SDC_App2\obj\Debug\netstandard2.0\SplashScreen.xaml.g.cs
+C:\Development\Xamarin\SDC\SDC_App2\SDC_App2\obj\Debug\netstandard2.0\SDC_App2.AssemblyInfoInputs.cache
+C:\Development\Xamarin\SDC\SDC_App2\SDC_App2\obj\Debug\netstandard2.0\SDC_App2.AssemblyInfo.cs
+C:\Development\Xamarin\SDC\SDC_App2\SDC_App2\obj\Debug\netstandard2.0\SDC_App2.csproj.CoreCompileInputs.cache
+C:\Development\Xamarin\SDC\SDC_App2\SDC_App2\obj\Debug\netstandard2.0\Views\SplashScreen.xaml.g.cs
